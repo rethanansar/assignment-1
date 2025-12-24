@@ -26,7 +26,7 @@ public class Main {
         // 9) Create Employee object
         Employee emp = new Employee(empAge, empName, empAlive, empPosition, empSalary);
 
-        // 9) Create Student object (girl's name is always Дильназ)
+        // 9) Create Student object 
         Student st = new Student(20, "Not Ansar", true, "AITU", 3.5f);
 
         // 11) Use setters/getters
