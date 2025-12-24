@@ -27,7 +27,7 @@ public class Main {
         Employee emp = new Employee(empAge, empName, empAlive, empPosition, empSalary);
 
         // 9) Create Student object 
-        Student st = new Student(20, "Not Ansar", true, "AITU", 3.5f);
+        Student st = new Student(18, "Ansar", true, "AITU", 3.5f);
 
         // 11) Use setters/getters
         emp.setSalary(emp.getSalary() + 5000); // increase salary
